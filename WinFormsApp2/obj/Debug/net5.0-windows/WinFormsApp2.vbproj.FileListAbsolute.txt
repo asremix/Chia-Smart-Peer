@@ -1,0 +1,18 @@
+C:\Users\somch\OneDrive\Desktop\Chia-Smart-Peer-1.2\WinFormsApp2\bin\Debug\net5.0-windows\Chia Smart Peer.exe
+C:\Users\somch\OneDrive\Desktop\Chia-Smart-Peer-1.2\WinFormsApp2\bin\Debug\net5.0-windows\Chia Smart Peer.deps.json
+C:\Users\somch\OneDrive\Desktop\Chia-Smart-Peer-1.2\WinFormsApp2\bin\Debug\net5.0-windows\Chia Smart Peer.runtimeconfig.json
+C:\Users\somch\OneDrive\Desktop\Chia-Smart-Peer-1.2\WinFormsApp2\bin\Debug\net5.0-windows\Chia Smart Peer.runtimeconfig.dev.json
+C:\Users\somch\OneDrive\Desktop\Chia-Smart-Peer-1.2\WinFormsApp2\bin\Debug\net5.0-windows\Chia Smart Peer.dll
+C:\Users\somch\OneDrive\Desktop\Chia-Smart-Peer-1.2\WinFormsApp2\bin\Debug\net5.0-windows\ref\Chia Smart Peer.dll
+C:\Users\somch\OneDrive\Desktop\Chia-Smart-Peer-1.2\WinFormsApp2\bin\Debug\net5.0-windows\Chia Smart Peer.pdb
+C:\Users\somch\OneDrive\Desktop\Chia-Smart-Peer-1.2\WinFormsApp2\obj\Debug\net5.0-windows\ChiaSmartPeer.CheckForm.resources
+C:\Users\somch\OneDrive\Desktop\Chia-Smart-Peer-1.2\WinFormsApp2\obj\Debug\net5.0-windows\ChiaSmartPeer.Resources.resources
+C:\Users\somch\OneDrive\Desktop\Chia-Smart-Peer-1.2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.vbproj.GenerateResource.cache
+C:\Users\somch\OneDrive\Desktop\Chia-Smart-Peer-1.2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\somch\OneDrive\Desktop\Chia-Smart-Peer-1.2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\somch\OneDrive\Desktop\Chia-Smart-Peer-1.2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.AssemblyInfo.vb
+C:\Users\somch\OneDrive\Desktop\Chia-Smart-Peer-1.2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\somch\OneDrive\Desktop\Chia-Smart-Peer-1.2\WinFormsApp2\obj\Debug\net5.0-windows\Chia Smart Peer.dll
+C:\Users\somch\OneDrive\Desktop\Chia-Smart-Peer-1.2\WinFormsApp2\obj\Debug\net5.0-windows\ref\Chia Smart Peer.dll
+C:\Users\somch\OneDrive\Desktop\Chia-Smart-Peer-1.2\WinFormsApp2\obj\Debug\net5.0-windows\Chia Smart Peer.pdb
+C:\Users\somch\OneDrive\Desktop\Chia-Smart-Peer-1.2\WinFormsApp2\obj\Debug\net5.0-windows\WinFormsApp2.genruntimeconfig.cache

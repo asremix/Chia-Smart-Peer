@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Chia Smart Peer/1.0.0": {
+        "runtime": {
+          "Chia Smart Peer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chia Smart Peer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
